@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.skip-diet h1{
+    font-size: 50px;
+    font-weight: 800;
+}
+.first-section{
+    
+}
+.skip-diet {
+    width: 40%;
+    float: left;
+    margin-left: 6.5%;
+}
+.skip-diet img{
+    width: 100%;
+}
+.color-skip{
+    color: orange;
+}
+.order-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, orange, orangered);
+    padding: 10px 40px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 700;
+}
