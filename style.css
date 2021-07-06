@@ -6,7 +6,10 @@ body{
     font-size: 50px;
     font-weight: 800;
 }
-section{
+.first-section{
+    height: 500px;
+}
+.bg-img{
     height: 500px;
 }
 .skip-diet {
@@ -40,6 +43,46 @@ h2{
 .bg-img{
     background-image: url("images/7.png");
     background-repeat: no-repeat;
+}
+
+
+
+
+.card-before{
+    text-align: center;
+    padding-top: 70px;
+}
+.card-before h2{
+    margin-right: ;
+}
+
+
+.card-section{
+    margin-left: 10%;
+}
+
+.card{
+    float: left;
+    width: 22%;
+    height: 400px;
+    padding: 2%;
+    margin: 20px;
+    margin-left: 20px;
+    border-radius: 5%;
+    box-shadow: 10px 10px 25px rgb(124, 123, 123);
+   
+}
+.card img{
+    height: 200px;
+    width: 100%;
+    border-radius: 10px;
+}
+.card h3{
+    font-size: 30px;
+}
+.card p{
+    
+    text-align: justify;
 }
 
 
